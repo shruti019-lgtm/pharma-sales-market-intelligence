@@ -40,6 +40,14 @@ Raw data was cleaned and processed using Python before being summarized for anal
 - Sales are significantly higher during Day (OPD) hours compared to Night (Non-OPD).
 - Sales timing aligns strongly with doctor visit windows.
 
+  ## 📊 Tableau Dashboard & Story (Presentation)
+
+The Tableau dashboard and story have been exported as a presentation for easy viewing by stakeholders.
+
+📥 **Download presentation:**  
+[Pharma Sales Dashboard & Story (PPT)](tableau/pharma_sales_dashboard_story.pptx)
+
+
 ---
 
 ## 📂 Project Structure
