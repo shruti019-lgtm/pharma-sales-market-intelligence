@@ -45,7 +45,7 @@ Raw data was cleaned and processed using Python before being summarized for anal
 The Tableau dashboard and story have been exported as a presentation for easy viewing by stakeholders.
 
 📥 **Download presentation:**  
-[Pharma Sales Dashboard & Story (PPT)](tableau/pharma_sales_dashboard_story.pptx)
+[Pharma Sales Dashboard & Story (PPT)] from files section
 
 
 ---
